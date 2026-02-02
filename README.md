@@ -34,6 +34,7 @@ Data Scientist Consultant @ Icon Digital LLC (2024- Present)
    
 ![image alt](https://github.com/TopB-Tosh/icon-digital-repository/blob/223a5372655c3ad2c770dd39a96fdb2106076b4a/Feature%20importances%20from%20Random%20Forest%20Classifier'.png)"
 
+
 ### Airline Dataset - Building a decision tree model to predict customer satisfaction
 
  * Goal :
@@ -49,6 +50,7 @@ Data Scientist Consultant @ Icon Digital LLC (2024- Present)
 ![image alt](https://github.com/TopB-Tosh/icon-digital-repository/blob/3e709c2167f4675bdc82338330380025ce688600/Feature%20Importances%20after%20hyperparameter%20tuning%20of%20the%20decision%20tree.png)"
 
 ![image alt](https://github.com/TopB-Tosh/icon-digital-repository/blob/13da47c36f0ab559103fd669de6a638522f74984/airline%20decision%20tree%20tables%20.png)"
+
 
 ### Air Quality Data From ROA(Repair Our Air) USA - Hypothesis testing.
 
@@ -104,8 +106,8 @@ Data Scientist Consultant @ Icon Digital LLC (2024- Present)
 ![image alt](https://github.com/TopB-Tosh/icon-digital-repository/blob/72bd105760973785f1524aeb6f27901782f21556/tuskeyHSD%20test%20sales.png)"
 
 The first row, which compares the High and Low TV groups, indicates that you can reject the null hypothesis that there is no significant difference between the Sales of these two groups.
-
 You can also reject the null hypotheses for the two other pairwise comparisons that compare High to Medium and Low to Medium.
+
 
 
 ### United States Environmental Protection Agency (EPA) - Exploring Probability distributions
