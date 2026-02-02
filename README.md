@@ -103,6 +103,10 @@ Data Scientist Consultant @ Icon Digital LLC (2024- Present)
  
 ![image alt](https://github.com/TopB-Tosh/icon-digital-repository/blob/72bd105760973785f1524aeb6f27901782f21556/tuskeyHSD%20test%20sales.png)"
 
+The first row, which compares the High and Low TV groups, indicates that you can reject the null hypothesis that there is no significant difference between the Sales of these two groups.
+
+You can also reject the null hypotheses for the two other pairwise comparisons that compare High to Medium and Low to Medium.
+
 
 ### United States Environmental Protection Agency (EPA) - Exploring Probability distributions
 
